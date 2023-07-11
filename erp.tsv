@@ -1,0 +1,135 @@
+common name	species name	evidence	ERP (y/n)	maximum life span (anAge)	age where 50% females acyclic	estimated age of acyclicity onset according to the paper	estimated upper age of acyclicity onset	% life acyclic (using max life-span)	population (captive or wild)	indicator	n	reference	year	link	Order*	Excluded
+asian elephants	Elephas maximus	demographic	y	79.6	25	62-68	68	14.57	semi-captive	fertility	1040	Lahdenpera et al.	2014	https://frontiersinzoology.biomedcentral.com/articles/10.1186/s12983-014-0054-0	Proboscidea	n
+chimpanzee	Pan troglodytes	physiological	y	68	NA	57	57	16.18	captive	hormones, genital swelling	9 (30)	Herndon et al.	2012	10.1007/s11357-011-9351-0	Primates	n
+rhesus macaque	Macaca mulatta	physiological	y	40	NA	29	29	27.5	captive	hormones	15 (26)	Gilardi et al.	1997	10.1095/biolreprod57.2.335	Primates	n
+baboon	Papio spp.	physiological	y	37.5	NA	26	26	30.67	captive	ceasing of menstruation	57 (459)	Martin et al.	2003	10.1016/s0047-6374(03)00134-9	Primates	n
+rhesus macaque	Macaca mulatta	physiological	y	40	24	27	27	32.5	captive and feral	ceasing of menstruation, all post confirmed with ovarian histology	10 (15)	Walker et al.	1995	https://doi.org/10.1002/ajp.1350350106	Primates	n
+gorilla	Gorilla gorilla	physiological	y	60	NA	37	37	38.33	captive	hormones	22 (30)	Atsalis et al.	2008	https://doi.org/10.1159/000137704	Primates	n
+european badger	Meles meles	physiological	y	18.6	NA	11.4	11.4	38.71	wild	hormones, fertility	1692	Sugianto et al.	2020	https://doi.org/10.1016/j.zool.2020.125803	Carnivora	n
+chimpanzee	Pan troglodytes	physiological	y	68	NA	35-40	40	41.18	captive	hormones	14 (14)	Videan et al.	2006	https://www.ingentaconnect.com/content/aalas/cm/2006/00000056/00000004/art00007	Primates	n
+african elephants	Loxodonta africana	physiological	y	65	31-35	NA	35	46.15	captive	hormones	93	Proctor et al.	2010	https://doi.org/10.1002/zoo.20238	Proboscidea	n
+spiny mouse	Acomys dimidiatus	morphological	y	5.9	3	3	3	49.15	captive	follicle count, hormones	19 (53)	Bellofiore et al.	2021	10.1093/humrep/deab215	Rodentia	n
+cow	Bos primigenius	morphological	y	30	15	15	15	50	captive	fertility, nr follicles	78 (152)	Erikson et al.	1976	https://doi.org/10.1095/biolreprod15.4.555	Artiodactyla	n
+rhesus macaque	Macaca mulatta	morphological	y	40	NA	20	20	50	captive	follicle count	13 (64)	Nichols et al.	2005	https://academic.oup.com/humrep/article/20/1/79/671598	Primates	n
+cow	Bos primigenius	morphological	y	30	NA	13-14	14	53.33	captive	hormones, nr follicles	10 (19)	Malhi et al.	2005	https://doi.org/10.1095/biolreprod.104.038745	Artiodactyla	n
+human	Homo sapiens	morphological	y	122	51	51	51	58.2	NA	follicle count	110	Faddy et al.	1992	https://doi.org/10.1093/oxfordjournals.humrep.a137570	Primates	n
+Japanese monkey	Macaca fuscata	morphological	y	38.5	NA	16	16	58.44	captive	follicle count	10 (47)	Nozaki et al.	1997	https://doi.org/10.1007/BF02385925	Primates	n
+human	Homo sapiens	demographics	y	122	NA	50	50	59.02	hunter-gatherers	live births	>60	Thompson et al.	2007	https://doi.org/10.1016/j.cub.2007.11.033	Primates	n
+mouse - BL6	Mus musculus	physiological	y	4	NA	1.3-1.6	1.6	60	captive	hormones	>10 (>10)	Parkening et al.	1982	10.1016/0197-4580(82)90058-6	Rodentia	n
+mouse - BL6	Mus musculus	morphological	y	4	NA	1.3-1.6	1.6	60	captive	follicle count	16	Urua et al.	2020	https://doi.org/10.3390/biom10010113	Rodentia	n
+mares	Equus caballus	physiological	y	57		20	20	64.91	Domestic	hormones	>10 (1101)	Uliani et al.	2019	https://doi.org/10.1530/JOE-18-0391	Perissodactyla	n
+mares	Equus caballus	physiological	y	57	20	20	20	64.91	Domestic	hormones (LH, FSH)	16 (45)	Carnevale et al.	1994	https://doi.org/10.1016/0378-4320(94)90039-6	Perissodactyla	n
+mouse - BL6	Mus musculus	physiological	y	4	NA	1.1-1.3	1.3	67.5	captive	vaginal cytology	34	Nelson et al.	1982	https://doi.org/10.1095/biolreprod27.2.327	Rodentia	n
+mouse - BL6	Mus musculus	physiological	y	4	NA	0.9-1.3	1.3	67.5	captive	vaginal cytology	59	Felicio et al.	1984	10.1095/biolreprod31.3.446	Rodentia	n
+ewes	Ovis aries	demographic	y	22.8	NA	5-6	6	73.68	Domestic	lamb weight and litter size	87532	Mysterud et al.	2002	https://doi.org/10.1034/j.1600-0706.2002.970203.x	Artiodactyla	n
+rat	Rattus norvegicus	physiological	y	3.8	NA	0.5-1	1	73.68	captive	vaginal cytology	14 (34)	Nelson et al.	1982	https://doi.org/10.1095/biolreprod27.2.327	Rodentia	n
+black howler	Alouatta caraya	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+gray-bellied night monkey	Aotus lemurinus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+three-striped night monkey	Aotus trivirgatus	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+black-headed spider monkey	Ateles fusciceps	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Geoffroy's spider monkey	Ateles geoffroyi	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Goeldi's marmoset	Callimico goeldii	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+white-headed marmoset	Callithrix geoffroyi	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+marmoset	Callithrix jacchus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Wied's marmoset	Callithrix kuhli	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Black-tufted Marmoset	Callithrix penicillata	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+dog (beagle)	Canis familiaris	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Cohen et al.	2003	10.1017/s1464793103006432	Carnivora	n
+pygmy marmoset	Cebuella pygmaea	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+collared mangabey	Cercocebus torquatus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+diana monkey	Cercopithecus diana	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+de brazza's monkey	Cercopithecus neglectus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+fat-tailed dwarf lemur	Cheirogaleus medius	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+grivet	Chlorocebus aethiops	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+sloth	Choloepus didactylus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Pilosa	n
+Angolan Colobus Monkey	Colobus angolensis	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+mantled guereza	Colobus guereza	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+armadillos	Dasypus novemcinctus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Cingulata	n
+asian elephants	Elephas maximus	demographic	y	NA	NA	NA	NA	NA	semi-captive	fertility	2568	Chapman et al.	2019	https://doi.org/10.1186/s12862-019-1513-1	Proboscidea	n
+asian elephants	Elephas maximus	physiological	y	NA		NA	NA	NA	captive	hormones	92	Proctor et al.	2010	https://doi.org/10.1002/zoo.20238	Proboscidea	n
+hedgehog 	Erinaceus europaeus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Erinaceomorpha	n
+patas monkey	Erythrocebus patas	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+common brown lemur	Eulemur fuvus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+black lemur	Eulemur macaco	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+cat	Felis catus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Cohen et al.	2003	10.1017/s1464793103006432	Carnivora	n
+Lesser Bushbaby	Galago moholi	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Senegal bushbaby	Galago senegalensis	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+colugos 	Galeopterus variegatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Dermoptera	n
+Short-finned pilot whale	Globicephala macrorhynchus	morphological	y	NA	NA	NA	NA	NA	wild	corpora lutea	>10 (>10)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	n
+gorilla	Gorilla gorilla	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Afghanistan	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Haiti	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Japan	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Less DC	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Less DR	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Niger	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien PNG	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Somalia	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Sweden	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien Sweden 1751	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapien USA	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapiens !Kung	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapiens Ache	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapiens Hadza	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+human	Homo sapiensTrinidadSlaves	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+gibbon	Hylobates lar	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+gibbon	Hylobates syndactylus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+brown woolly monkey	Lagotricha lagotricha	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+ring-tailed lemur	Lemur catta	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+golden-headed lion tamarin	Leontopithecus chrysomelas	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+golden lion tamarin	Leontopithecus rosalia	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+red slender loris	Loris tardigradus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+crab-eating macaque	Macaca fascicularis	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Japanese macaque	Macaca fuscata	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+rhesus macaque	Macaca mulatta	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+pigtail monkey	Macaca nemestrina	morphological	y	NA	NA	NA	NA	NA	captive	follicle count	16	Miller et al.	1999	https://doi.org/10.1095/biolreprod61.2.553	Primates	n
+Celebes crested macaque	Macaca nigra	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Lion-tailed macaque	Macaca silenus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Barbary macaque	Macaca sylvanus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+elephant-shrew	Macroscelides proboscideus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Macroscelidea	n
+drill	Mandrillus leucophaeus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+mandrill	Mandrillus sphinx	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+pangolins	Manis sp.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Pholidota	n
+Silvery Marmoset	Mico argentatus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Gray Mouse Lemur	Microcebus murinus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+bat	Myotis lucifugus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Chiroptera	n
+Sunda slow loris	Nycticebus coucang	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+pygmy slow loris	Nycticebus pygmaeus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+aardvark	Orycteropus afer	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Tubulidentata	n
+rabbit	Oryctolagus cuniculus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Lagomorpha	n
+brown greater galago	Otolemur crassicaudatus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+northern greater galago	Otolemur garnettii	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+chimpanzee	Pan troglodytes	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Golden Faced Saki	Pithecia pithecia	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Sumatran orangutan	Pongo abelii	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+orangutan	Pongo pygmaeus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Hyraxes	Procavia capensis	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Hyracoidea	n
+Coquerel’s Sifakas	Propithecus coquereli	demographics	y	NA	NA	NA	NA	NA	captive	giving birth	NA	Kappeler et al.	2022	https://www.frontiersin.org/articles/10.3389/fevo.2022.894344/full	Primates	n
+False killer whale 	Pseudorca crassidens	morphological	y	NA	NA	NA	NA	NA	wild	corpora lutea	10 (>10)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	n
+pied tamarin	Saguinus bicolor	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+brown-mantled tamarin	Saguinus fuscicollis	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Geoffroy's tamarin	Saguinus geoffroyi	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Bearded emperor tamarin	Saguinus imperator	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+white-lipped tamarin	Saguinus labiatus	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+red-handed tamarin	Saguinus midas	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+cotton-top tamarin	Saguinus oedipus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+black-capped squirrel monkey	Saimiri boliviensis	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Squirrel monkey	Saimiri sciureus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+capuchin	Sapajus apella	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+northern plains gray langur	Semnopithecus entellus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+shrews	Sorex araneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Scandentia	n
+common shrew	Sorex araneus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Soricomorpha	n
+Tailles tenrec	Tenrec ecaudatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Afrosoricida	n
+gelada	Therapithecus gelada	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+East Javan langur	Trachypithecus auratus	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+silvered lutung	Trachypithecus cristatus	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Dusky Leaf Monkey	Trachypithecus obscurus	demographics	n	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+manatees	Trichechus manatus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA et al.	NA	NA	Sirenia	n
+black-and-white ruffed lemur	Varecia variegate	demographics	y	NA	NA	NA	NA	NA	captive	PrR (fecundity)	>60	Levitis et al.	2011	https://doi.org/10.1111/j.2041-210X.2011.00095.x	Primates	n
+Long-finned pilot whale	Globicephala melas	molecular	n	60	NA	NA	NA	NA	wild	corpora lutea	4 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Melon-headed whale	Peponocephala electra	molecular	n	47	NA	NA	NA	NA	wild	corpora lutea	0 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Sperm whale	Physeter macrocephalus	molecular	n	77	NA	NA	NA	NA	wild	corpora lutea	0 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Pantropical spotted dolphin	Stenella attenuata	molecular	n	46	NA	NA	NA	NA	wild	corpora lutea	3 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Striped dolphin	Stenella coeruleoalba	molecular	n	57.5	NA	NA	NA	NA	wild	corpora lutea	0 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Spinner dolphin	Stenella longirostris	molecular	n	NA	NA	NA	NA	NA	wild	corpora lutea	NA	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+Common bottlenose dolphins	Tursiops truncatus	molecular	n	51.6	NA	NA	NA	NA	wild	corpora lutea	1 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
+beaked whale	Berardius bairdii	molecular	y	84	NA	NA	NA	NA	wild	corpora lutea	0 (NA)	Elis et al.	2018	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110730/pdf/41598_2018_Article_31047.pdf	Cetacea	y
